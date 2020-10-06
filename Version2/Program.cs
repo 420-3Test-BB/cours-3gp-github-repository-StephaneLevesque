@@ -2,6 +2,9 @@
 
 namespace Version2
 {
+    /// <summary>
+    /// ce que fait le main
+    /// </summary>
     class Program
     {
         static void Main(string[] args)
